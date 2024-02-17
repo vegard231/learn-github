@@ -1,0 +1,3 @@
+[submodule "Turntable-API-fork"]
+	path = Turntable-API-fork
+	url = https://github.com/vegard231/Turntable-API
