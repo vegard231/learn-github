@@ -15,3 +15,6 @@ $x = \frac{-b \pm \sqrt[](b^2 - 4ac)}{2a}$
 $$
 x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
+
+![equation](https://latex.codecogs.com/svg.image?&space;https://latex.codecogs.com/gif.latex?x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+
